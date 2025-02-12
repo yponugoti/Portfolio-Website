@@ -1,14 +1,11 @@
-import styles from './Hero.module.css';
-import HeroPfp from './assets/HeroPfp.jpeg'
-
+ import './App.css';
+ import Hero from './components/Hero/Hero';
 
 function App() {
   return (
-    <Component id="hero">
-      <div>
-        <img src={HeroPfp} alt="" />
-      </div>
-    </Component>
+    <>
+      <Hero />
+    </>
   );
 }
 
