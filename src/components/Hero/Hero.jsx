@@ -20,7 +20,7 @@ function Hero() {
             <img src={githubIcon} alt="Github Icon" />
           </a>
         </span>
-        <p>
+        <p className={styles.bio}>
           Short BIO!
         </p>
         <a href={"https://google.com"} className={styles.button}>
