@@ -13,10 +13,10 @@ function Hero() {
         <h1> Yaswanth <br /> Ponugoti </h1>
         <h2> Software Engineer </h2>
         <span>
-          <a href="www.linkedin.com/in/yaswanth-ponugoti" target="_blank">
+          <a href="https://www.linkedin.com/in/yaswanth-ponugoti" target="_blank">
             <img src={linkedinIcon} alt="Linkedin Icon" />
           </a>
-          <a href="www.linkedin.com/in/yaswanth-ponugoti" target="_blank">
+          <a href="https://github.com/yponugoti" target="_blank">
             <img src={githubIcon} alt="Github Icon" />
           </a>
         </span>
